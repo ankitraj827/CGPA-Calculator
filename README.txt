@@ -1,0 +1,2 @@
+This project is mainly dependent on the respective pattern of grading system in the educational organizations.
+In this project,it is highly recommended that first the user must see the pattern of grade and their respective grade points and Based on the users grading pattern in their respective colleges , they can adjust their grading scale pattern according to the software grading pattern.Thank you.
